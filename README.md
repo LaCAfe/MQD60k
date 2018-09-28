@@ -1,5 +1,5 @@
 # MQD60k
-Meu Querido Diário or MQD (http://www.meuqueridodiario.com.br/) is a social network where users write texts related to their everyday experiences, like records in a personal diary that can contain thoughts, experiences or their feelings.  This dataset contains 32,244 posts associated with happiness class and 26,922 with sadness class. We collected a total of 59,166 posts with emotions happiness and sadness associated, randomly selected from users in the age between 13 and 99, without gender distinction. Caution was taken to assure identifying information stripped, such that it cannot be linked to the person who wrote it. 
+Meu Querido Diário or MQD (http://www.meuqueridodiario.com.br/) is a social network where users write texts related to their everyday experiences, like records in a personal diary that can contain thoughts, experiences or their feelings.  This dataset contains 32,244 posts associated with happiness class and 26,922 with sadness class. We collected a total of 59,166 posts with emotions happiness and sadness associated, randomly selected from users in the age between 13 and 99, without gender distinction. Caution was taken to assure identifying information was stripped, such that it cannot be linked to the person who wrote it. 
 
 When using this dataset for academic purposes, please cite our article:
 
