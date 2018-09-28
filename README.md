@@ -8,7 +8,7 @@ When using this dataset for academic purposes, please cite our article:
     AUTHOR="Flavio Carvalho and Gabriel dos Santos and Gustavo Paiva Guedes",
     TITLE="AffectPT-br: an Affective Lexicon based on LIWC 2015",
     BOOKTITLE="37th International Conference of the Chilean Computer Science Society (SCCC 2018)",
-    ADDRESS="37th International Conference of the Chilean Computer Science Society (SCCC 2018)",
+    ADDRESS="University Andres Bello, Campus Antonio Varas, Santiago – Chile.",
     DAYS="05-09",
     MONTH="nov",
     YEAR="2018",
